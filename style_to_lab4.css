@@ -1,0 +1,29 @@
+body{background-image: url("https://cdn-images-1.medium.com/max/1600/1*zWhOGf_PgX0nRTLZLmFpGg.png");}
+#sendData{border-radius:  10px; background: -webkit-gradient(linear, 0 0, 0 100%, from(#00BBD6), to(#EBFFFF));}
+.edit{border-radius:  5px;background: -webkit-gradient(linear, 0 0, 0 100%, from(#FFFF00), to(#DAA520	));}
+.delete{border-radius:  5px;background: -webkit-gradient(linear, 0 0, 0 100%, from(#CD5C5C), to(#8B0000));}
+#nameInput {
+   border: 1px solid #FFD700;
+   border-radius: 6px;
+   background:#FF4500	; 
+
+   color: #FFD700	;  
+   font-family: Tahoma; 
+}
+#descInput {
+   border: 1px solid #FFD700;
+   border-radius: 6px;
+   background:#FF4500	; 
+
+   color: #FFD700	;  
+   font-family: Tahoma; 
+}
+#linkInput {
+   border: 1px solid #FFD700;
+   border-radius: 6px;
+   background:#FF4500	; 
+
+   color: #FFD700	;  
+   font-family: Tahoma; 
+}
+
