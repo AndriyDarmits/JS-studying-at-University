@@ -1,1 +1,1 @@
-# JavaScript
+# Group project based on JS
